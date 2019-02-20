@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc38003c0e0db6641a4762d4f392de52, type: 3}
+  m_Name: RoundRocks
+  m_EditorClassIdentifier: 
+  prefabs:
+  - gameObject: {fileID: 8450473914303514045, guid: 83259ac919aedf54287fe80d0f71b259,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 1379499080139354665, guid: c13ab472c498db44aa0b91b38065a418,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 3295090426970850987, guid: 2595543e0b3a9534cb842e3700c0e1ea,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 7486600862368392864, guid: 788f49768d2899e48888736d5a0f953d,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 1527166112945312279, guid: 1d007be068714fc41a4d9d5d6313563b,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 7584768245773431107, guid: 5932019c625128643b1d9bb55f0df30e,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
+  - gameObject: {fileID: 1252259378085854711, guid: f53c2708a34ba6a49a2599d8dfd64d69,
+      type: 3}
+    settings:
+      rotationRange: {x: 0, y: 0}
+      scaleRange: {x: 0, y: 0}
